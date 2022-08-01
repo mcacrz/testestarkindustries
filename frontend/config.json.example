@@ -1,0 +1,7 @@
+{
+  "api": {
+    "pesquisaCep":{"url":"http://localhost/stark/services/api/cepsearch/|cep|", "method":"GET"},
+    "pesquisaClientes":{"url":"http://localhost/stark/services/api/find/|campo|/|valor|", "method":"GET"},
+    "inserirClientes":{"url":"http://localhost/stark/services/api/insert", "method":"POST"}
+  }
+}

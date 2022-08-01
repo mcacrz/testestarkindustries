@@ -1,0 +1,7 @@
+{
+  "api": {
+    "pesquisaCep":{"url":"http://127.0.0.1:8083/stark/services/api/cepsearch/|cep|", "method":"GET"},
+    "pesquisaClientes":{"url":"http://127.0.0.1:8083/stark/services/api/find/|campo|/|valor|", "method":"GET"},
+    "inserirClientes":{"url":"http://127.0.0.1:8083/stark/services/api/insert", "method":"POST"}
+  }
+}
